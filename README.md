@@ -11,12 +11,10 @@ To execute the program in the terminal using Python after redirecting to the fol
 ```
 cd /path that contains the script
 python keylogger.py
-
 ```
 
 # Installation purpose in Linux
 
 ```
 git clone https://github.com/websec2313/keylogger.git
-
 ```
