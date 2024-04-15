@@ -20,5 +20,5 @@ start_thread = Thread(target=start_rec)
 start_thread.start()
 
 
-kb.add_hotkey("ctrl+alt+s",stop_rec)
+kb.add_hotkey("alt+s",stop_rec)
 kb.wait()
